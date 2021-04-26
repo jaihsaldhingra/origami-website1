@@ -1,0 +1,13 @@
+h1{
+    color: blue
+}
+.header{
+    background-color: yellow  ;
+display:flex ;
+justify-content : space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
